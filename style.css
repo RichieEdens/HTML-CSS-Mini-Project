@@ -25,6 +25,12 @@ header{
     justify-content: center;
 }
 
+.header__container{
+    display: flex;
+    align-items: center;
+}
+
+
 .header__img--wrapper{
     width: 40%;
     display: flex;
